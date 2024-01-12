@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kwongen/myrobotfriends/static/css/main.4073a6fa.css",
-    "main.js": "/kwongen/myrobotfriends/static/js/main.48615476.js",
-    "static/js/787.c2cff050.chunk.js": "/kwongen/myrobotfriends/static/js/787.c2cff050.chunk.js",
-    "static/media/SEGA.woff": "/kwongen/myrobotfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/kwongen/myrobotfriends/index.html",
-    "main.4073a6fa.css.map": "/kwongen/myrobotfriends/static/css/main.4073a6fa.css.map",
-    "main.48615476.js.map": "/kwongen/myrobotfriends/static/js/main.48615476.js.map",
-    "787.c2cff050.chunk.js.map": "/kwongen/myrobotfriends/static/js/787.c2cff050.chunk.js.map"
+    "main.css": "/myrobotfriends/static/css/main.72755329.css",
+    "main.js": "/myrobotfriends/static/js/main.4550b7d5.js",
+    "static/js/787.c2cff050.chunk.js": "/myrobotfriends/static/js/787.c2cff050.chunk.js",
+    "static/media/SEGA.woff": "/myrobotfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/myrobotfriends/index.html",
+    "main.72755329.css.map": "/myrobotfriends/static/css/main.72755329.css.map",
+    "main.4550b7d5.js.map": "/myrobotfriends/static/js/main.4550b7d5.js.map",
+    "787.c2cff050.chunk.js.map": "/myrobotfriends/static/js/787.c2cff050.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4073a6fa.css",
-    "static/js/main.48615476.js"
+    "static/css/main.72755329.css",
+    "static/js/main.4550b7d5.js"
   ]
 }
